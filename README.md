@@ -1,0 +1,1 @@
+# My autoconfig for CSGO
