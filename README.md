@@ -1,1 +1,1 @@
-# My autoconfig for CSGO
+# My autoconfig for CSGO.
